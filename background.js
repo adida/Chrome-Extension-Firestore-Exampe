@@ -1,12 +1,12 @@
 // The app's Firebase configuration(change it to fit your database).
 var firebaseConfig = {
-    apiKey: "AIzaSyBxHk2BN2p9brQ90AHq9jGhWOEFLg5l2zY",
-    authDomain: "medium-toturial.firebaseapp.com",
-    databaseURL: "https://medium-toturial.firebaseio.com",
-    projectId: "medium-toturial",
-    storageBucket: "medium-toturial.appspot.com",
-    messagingSenderId: "1066065169112",
-    appId: "1:1066065169112:web:7d6faff764cc334a99e5ad"
+    apiKey: "your-details-here",
+    authDomain: "your-details-here",
+    databaseURL: "your-details-here",
+    projectId: "your-details-here",
+    storageBucket: "your-details-here",
+    messagingSenderId: "your-details-here",
+    appId: "your-details-here"
   };
 
 // Initialize Firebase
